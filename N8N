@@ -1,0 +1,22 @@
+🛠️ What is n8n?
+n8n (short for "node-node") is a powerful open-source workflow automation tool that allows you to connect various services and automate tasks with little to no code. It acts like a visual editor where you build workflows using a drag-and-drop interface.
+
+🔑 Key Features
+🔄 Low-code workflows: Build automations using nodes without writing code (but extendable with JavaScript functions when needed)
+
+🌐 Integrations: Supports 350+ apps like Gmail, Google Sheets, Slack, Notion, Webhooks, and APIs
+
+🔐 Self-hostable: Unlike Zapier or Make, you can deploy n8n on your own server for full control and privacy
+
+📅 Triggers and actions: Use scheduled triggers, webhook events, or app-specific events to kick off workflows
+
+🔁 Conditional logic: Handle complex decision-making with IF, Switch, and Merge nodes
+
+⚙️ Use Cases
+Automating email workflows
+
+Scraping data from APIs and saving to databases
+
+Syncing data between tools like Notion, Google Sheets, and Airtable
+
+Lead generation, CRM automation, AI-powered pipelines
