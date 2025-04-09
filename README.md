@@ -1,5 +1,7 @@
 # Lead_Generation_AI_Agent
 An autonomous system to qualify &amp; respond to inbound leads using n8n, Relevance AI, and automated email workflows.
+
+
 📌 Overview
 This project is an AI-powered lead generation agent that automatically qualifies and responds to inbound leads via email. It reduces manual work by intelligently filtering leads, scoring them with contextual AI, and sending personalized replies — all through n8n workflows and Relevance AI.
 
